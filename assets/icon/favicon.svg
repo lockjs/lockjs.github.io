@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 512 512">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToGrid" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="ShowGrid" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path stroke="#242021" stroke-width="1" d="M0+0L512+0L512+512L0+512L0+0Z" fill="#e5e5e5" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#242021" stroke-width="1" d="M389.877+214.387C397.118+218.604+415.388+232.346+430.935+243.31C446.838+254.524+449.491+260.248+458.645+269.401C469.277+280.034+481.952+290.962+491.613+302.774C496.021+308.163+499.703+315.659+499.703+321.382C499.703+324.86+497.072+329.258+496.668+329.258C495.978+331.327+487.236+331.694+485.545+332.708C489.987+335.373+507.619+335.218+499.299+346.867C498.962+347.339+498.463+347.861+497.883+347.878C489.122+348.139+480.353+347.979+471.589+347.878C451.833+347.651+432.059+344.01+412.53+341.406C317.641+328.754+221.78+322.71+126.13+321.18C102.612+320.803+78.8065+321.3+55.3392+319.562C49.1186+319.101+22.3949+321.726+27.2251+309.651C27.7492+308.341+29.2216+306.828+30.4613+306.415C0.331634+276.285+6.17126+224.721+35.5178+195.374C47.5417+183.35+65.6865+179.993+81.2284+175.553C128.377+162.082+185.56+163.938+232.519+164.226C250.718+164.338+266.212+166.491+290.365+172.721C328.643+182.595+332.468+186.633+348.616+193.352C359.15+197.735+375.318+203.909+389.877+214.387Z" fill="#242021" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>

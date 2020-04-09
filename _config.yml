@@ -1,0 +1,12 @@
+lang: en-GB
+
+title: James Lock
+tag-line: Thinking through writing, because I'd like to be better at both
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - _posts/includes
